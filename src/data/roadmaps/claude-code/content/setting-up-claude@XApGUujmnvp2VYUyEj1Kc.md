@@ -1,0 +1,7 @@
+# Setting up Claude Code
+
+To set up Claude Code, you first install the CLI tool through your terminal using a single command tailored to your operating system. For macOS, Linux, or WSL, you run `curl -fsSL https://claude.ai/install.sh | bash`, while Windows users can use PowerShell to run `irm https://claude.ai/install.ps1 | iex`. Once the installation is complete, you navigate to any code project directory and type `claude`, which will trigger a one-time login process where you authenticate using your Claude account or an Anthropic Console API key. After logging in, the tool is ready to use immediately.
+
+Visit the following resources to learn more:
+
+- [@official@Getting started with Claude Code](https://code.claude.com/docs/en/quickstart)

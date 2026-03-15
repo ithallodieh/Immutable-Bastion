@@ -1,0 +1,3 @@
+# Installing Software and Applications
+
+Installing software and applications is more than just clicking "next, next, finish." When adding new programs to your system, think about where you're getting them from. Stick to official app stores or the developer's website for the best security. Before installing, spend a few minutes learning about the app and the company behind it. Pay close attention to the permissions the app asks for; does it really need access to your contacts or location? Regularly update both your operating system and installed apps to patch security holes. Consider installing a reputable security app to scan for malware. Finally, remove any apps you no longer use to reduce your system's attack surface.

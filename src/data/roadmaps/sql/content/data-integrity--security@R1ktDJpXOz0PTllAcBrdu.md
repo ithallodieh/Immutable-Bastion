@@ -1,0 +1,3 @@
+# Data Integrity & Security
+
+Data integrity ensures that the information stored in a database is accurate, consistent, and reliable over its entire lifecycle. Data security involves protecting the database from unauthorized access, modification, or deletion. These two concepts are essential for maintaining the trust and value of any database system, safeguarding against corruption, breaches, and ensuring data is used appropriately.

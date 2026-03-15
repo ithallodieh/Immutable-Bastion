@@ -1,0 +1,3 @@
+# Use /compact and /clear
+
+Regularly using `/compact` and `/clear` is the most effective way to prevent "context rot" and manage spiraling API costs while working with Claude Code. Using `/compact` allows you to summarize long research or debugging threads into a lean set of key findings, effectively "zipping" the conversation so you can continue without losing essential progress. In contrast, `/clear` is vital when switching to an unrelated task; it wipes the current history to provide a clean slate.
